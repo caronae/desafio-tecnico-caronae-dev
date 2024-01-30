@@ -36,10 +36,8 @@ Para os dois tipos de usuários precisamos ter informações como o nome e sobre
 
 O front-end deverá consumir a API Rest e ter as seguintes funcionalidades:
 
-- Página para cadastrar o usuário
-- Página para exibir todas as caronas disponíveis
+- Página para exibir todas as caronas disponíveis no sistema
 - Página para cadastrar uma carona
-- Página para visualizar a carona criada
 
 **A implementação do seu front-end poderá ser em um aplicativo ou website, a escolha é livre e isso não impactará na avaliação final.**
 
@@ -47,13 +45,10 @@ O front-end deverá consumir a API Rest e ter as seguintes funcionalidades:
 ## Diferencial
 
 - Documentação
-- Propostas de melhorias ou sugestões
 - Testes de integração
 - Testes unitários
 - Uso de Docker ou alguma outra ferramenta de containerização
 - Uso de Design Patterns
-- Uso de boas práticas de programação
-
 
 ## Materiais úteis
 
