@@ -14,8 +14,6 @@ O prazo para entrega do desafio técnico é até o dia <b>11/08/2024</b> às 23h
 
 # Avaliação
 
-No Caronaê temos dois tipos de usuários: o motorista e o caronista. Os nomes são bem intuitivos, o motorista tem o poder de gerenciar caronas (criar, editar, excluir) e o caronista tem o poder de solicitar caronas. Um motorista também pode exercer o papel de caronista mas um caronista não pode exercer o papel de motorista visto que é necessário ter um carro para poder oferecer caronas.
-
 ## Front-end
 
 O front-end deverá consumir a API Rest que será disponibilizada via contato e deverá ter as seguintes funcionalidades:
